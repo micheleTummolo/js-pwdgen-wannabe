@@ -1,0 +1,9 @@
+ TRACCIA: Chiedi all’utente il suo nome, poi chiedi il suo cognome, poi chiedi il suo colore preferito   Infine scrivi sulla pagina nomecognomecolorepreferito21.
+
+ 1- Dare la possibilità all'utente di inserire il suo nome;
+ 2- Dare la possibilità all'utente di inserire il suo cognome;
+ 3- Dare la possibilità all'utente di inserire il suo colore preferito;
+ 4- Unire le stringhe prese in input;
+ 5- Unire il risultato precedente con il numero 21;
+ 6- Scrivere sulla pagina quanto ottenuto.
+ 
